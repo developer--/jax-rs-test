@@ -1,0 +1,1 @@
+INSERT INTO USERS (EMAIL) VALUES ('jemo1.mgebrishvili@gmail.com');
